@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on California Healthcare Cybersecurity Workgroup</title>
+    <link>http://calhealthopsec.org/</link>
+    <description>Recent content in Index on California Healthcare Cybersecurity Workgroup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 09:56:48 -0800</lastBuildDate>
+    
+	<atom:link href="http://calhealthopsec.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://calhealthopsec.org/about/</link>
+      <pubDate>Thu, 05 Dec 2019 10:29:00 -0800</pubDate>
+      
+      <guid>http://calhealthopsec.org/about/</guid>
+      <description>OUR MISSION  Build a community of practitioners that promotes and matures the cybersecurity within the Healthcare Industry. Collaborate with our peers to develop content that addresses common healthcare cybersecurity challenges. Support and advance the development and maturity of all our cybersecurity programs.  CODE OF ETHICS  Perform all professional activities and duties in accordance with all applicable laws and the highest ethical principles; Promote information security current best practices and standards; Maintain appropriate confidentiality of proprietary or otherwise sensitive information encountered in the course of professional activities; Discharge professional responsibilities with diligence and honesty; Refrain from any activities which might constitute a conflict of interest or otherwise damage the reputation of or is detrimental to employers, the information security profession, or the Workgroup; and Not intentionally injure or impugn the professional reputation or practice of colleagues, clients, or employers.</description>
+    </item>
+    
+  </channel>
+</rss>
